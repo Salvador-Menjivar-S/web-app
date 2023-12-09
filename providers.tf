@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project = "tf-gcp-demo-37721"
+  project = "smenjivar-dev"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
